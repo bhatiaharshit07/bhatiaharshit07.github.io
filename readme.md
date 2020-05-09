@@ -1,2 +1,2 @@
 <h1>This is my personal website</h1>
-To view this site head on to [bhatiaharshit07.github.io](https://bhatiaharshit07.github.io)
+To view this site head on to <p>https://bhatiaharshit07.github.io</p>
